@@ -1,3 +1,3 @@
-module demo/app-1
+module demo/weather
 
-go 1.23.4
+go 1.22.1
